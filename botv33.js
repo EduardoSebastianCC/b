@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         COTP BOT V3.3
+// @name         COTP BOT V3.4
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  try to take over the world!
 // @author       You
 // @match        https://cotps.com/trade
